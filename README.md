@@ -32,6 +32,18 @@ Jsonic is a powerful desktop JSON parser that provides real-time validation, for
 
 ---
 
+## 📸 Screenshot
+
+<div align="center">
+
+![Jsonic Screenshot](screenshot.png)
+
+*Jsonic in action - showing JSON validation, formatting, and synchronized line numbers*
+
+</div>
+
+---
+
 ## 🎯 Features
 
 ### Core Functionality
