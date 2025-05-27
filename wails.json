@@ -1,0 +1,19 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Jsonic",
+  "version": "0.9.0-beta",
+  "outputfilename": "Jsonic",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Ender KUŞ",
+    "email": "enderkus@msn.com"
+  },
+  "info": {
+    "productVersion": "0.9.0-beta",
+    "copyright": "Copyright © 2024 Ender KUŞ. All rights reserved.",
+    "comments": "A modern JSON parser built with Wails"
+  }
+}
