@@ -73,8 +73,8 @@ Jsonic is a powerful desktop JSON parser that provides real-time validation, for
 
 1. Go to the [Releases](https://github.com/enderkus/jsonic/releases) page
 2. Download the macOS version:
-   - **macOS Intel**: `Jsonic-darwin-amd64.app`
-   - **macOS Apple Silicon**: `Jsonic-darwin-arm64.app`
+   - **macOS Intel**: [Jsonic-darwin-amd64.app.zip](https://github.com/enderkus/jsonic/releases/download/v0.9.0-beta/Jsonic-darwin-amd64.app.zip)
+   - **macOS Apple Silicon**: [Jsonic-darwin-arm64.app.zip](https://github.com/enderkus/jsonic/releases/download/v0.9.0-beta/Jsonic-darwin-arm64.app.zip)
 
 > 📋 **Coming Soon**: Windows and Linux support will be added in future releases
 
